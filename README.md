@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @tt-ishere
 - 👀 I’m interested in python
-- 🌱 I’m currently learning it
-- 💞️ I'll be sharing codes of my python challenges here
+- 🌱 I’m rencently started a 100 days of python challenge
+- 💞️ I'll be sharing my journey and future projects here
+- 🤞  Wish me luck!!!
 
 <!---
 tt-ishere/tt-ishere is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
