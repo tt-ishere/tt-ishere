@@ -2,7 +2,7 @@
 - 👀 I’m interested in python
 - 🌱 I’m rencently started a 100 days of python challenge
 - 💞️ I'll be sharing my journey and future projects here
-- 🤞  Wish me luck!!!
+- 🤞  Wish me luck!
 
 <!---
 tt-ishere/tt-ishere is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
