@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @tt-ishere
 - 👀 I’m learning python through #100daysofcodechallenge
+- You can connect with me on my socials
 
 
 <!---
